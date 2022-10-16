@@ -1,4 +1,4 @@
-﻿namespace NewsAnalyzer.Repository;
+﻿namespace NewsAnalyzerApi.Repository;
 public class Class1
 {
 
